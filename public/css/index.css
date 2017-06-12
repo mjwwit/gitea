@@ -2063,6 +2063,7 @@ footer .ui.language .menu {
   color: #A7A7A7;
   background: #fafafa;
   width: 1%;
+  vertical-align: top;
 }
 .repository .diff-file-box .file-body.file-code .lines-num span.fold {
   display: block;
